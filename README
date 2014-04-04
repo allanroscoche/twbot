@@ -1,0 +1,5 @@
+========= Tribal Wars Farm Bot ==================
+
+Um bot em python utilizando o selenium, uma biblioteca para testes automáticos em browsers.
+
+Ele loga automaticamente e realiza ações a cada 10 minutos dentro do jogo.
